@@ -1,0 +1,27 @@
+
+<html>
+ 
+  <head>
+   
+  
+  </head>
+  <body>
+
+	  <!--<form action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSdF2OJVuFGiRT4asl9PrpPsQ-1tWljO7VjmQJwHtIqd23pDyQ/formResponse" target="_self" method="POST">
+-->
+	
+<script type="text/javascript">var submitted=false;</script>
+    <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"     
+onload="if(submitted) {window.location='u/index.html';}"></iframe>
+      <form action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSdF2OJVuFGiRT4asl9PrpPsQ-1tWljO7VjmQJwHtIqd23pDyQ/formResponse" method="post" target="hidden_iframe" 
+onsubmit="submitted=true;">
+
+<input type="text" name="entry.1819167352" placeholder="Enter Email Address">
+      
+     
+      </div>
+      <button type="submit"><strong>Sign Up</strong></button>
+     
+    </form>
+  </body>
+</html>
